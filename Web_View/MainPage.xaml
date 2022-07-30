@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Web_View.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="LightBlue" Padding="5">
+            <Entry Text="" x:Name="entryURL" Placeholder="URL"/>
+            <Button  Text="Browse" Clicked="Button_Clicked" BackgroundColor="White" TextColor="black"/>
+            <Button  Text="Check Internet" Clicked="Check_Internet_Clicked" BackgroundColor="White" TextColor="black"/>
+            <StackLayout>
+                <ScrollView>
+                    <ActivityIndicator x:Name="ProgressBar" IsEnabled="True" IsVisible="False" IsRunning="False" Color="Green"/>
+                </ScrollView>
+                <ScrollView>
+                    <WebView x:Name="Browser" VerticalOptions="FillAndExpand" HeightRequest="1000" Navigated="Browser_Navigated" Navigating="Browser_Navigating"/>
+                </ScrollView>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

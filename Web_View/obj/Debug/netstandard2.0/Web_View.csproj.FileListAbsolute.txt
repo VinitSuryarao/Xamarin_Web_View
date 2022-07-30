@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Web_View\Web_View\bin\Debug\netstandard2.0\Web_View.deps.json
+E:\Study\Code\Xamarin\Web_View\Web_View\bin\Debug\netstandard2.0\Web_View.dll
+E:\Study\Code\Xamarin\Web_View\Web_View\bin\Debug\netstandard2.0\ref\Web_View.dll
+E:\Study\Code\Xamarin\Web_View\Web_View\bin\Debug\netstandard2.0\Web_View.pdb
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.dll
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\ref\Web_View.dll
+E:\Study\Code\Xamarin\Web_View\Web_View\obj\Debug\netstandard2.0\Web_View.pdb
